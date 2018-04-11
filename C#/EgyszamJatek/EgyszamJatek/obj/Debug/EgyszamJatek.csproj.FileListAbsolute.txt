@@ -1,0 +1,7 @@
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\bin\Debug\EgyszamJatek.exe.config
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\bin\Debug\EgyszamJatek.exe
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\bin\Debug\EgyszamJatek.pdb
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\obj\Debug\EgyszamJatek.csprojResolveAssemblyReference.cache
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\obj\Debug\EgyszamJatek.csproj.CoreCompileInputs.cache
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\obj\Debug\EgyszamJatek.exe
+C:\Users\adam1\Desktop\C#\EgyszamJatek\EgyszamJatek\obj\Debug\EgyszamJatek.pdb
