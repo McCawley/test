@@ -1,7 +1,0 @@
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\bin\Debug\Fogado.exe.config
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\bin\Debug\Fogado.exe
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\bin\Debug\Fogado.pdb
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\obj\Debug\Fogado.csprojResolveAssemblyReference.cache
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\obj\Debug\Fogado.csproj.CoreCompileInputs.cache
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\obj\Debug\Fogado.exe
-C:\Users\adam1\Desktop\C#\Fogado\Fogado\obj\Debug\Fogado.pdb
